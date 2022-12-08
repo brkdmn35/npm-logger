@@ -1,0 +1,14 @@
+{
+  "name": "qreal-logger",
+  "version": "1.0.0",
+  "description": "Providing shared log system for qreal projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
